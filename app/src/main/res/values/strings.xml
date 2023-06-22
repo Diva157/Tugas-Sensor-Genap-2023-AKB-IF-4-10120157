@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10120157_Sero</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="txt_welcome">Tugas Sensor Oleh 10120157 - Diva Alvita Donny S - IF4</string>
+    <string name="txt_intro">Aplikasi ini dibuat untuk memenuhi Tugas Mata Kuliah Aplikasi Komputasi Bergerak.</string>
+    <string name="txt_intro2">Sero merupakan sebuah aplikasi yang memiliki fitur Profile, Current Location, Nearby Places dan Informasi tentang Aplikasi Sero.</string>
+    <string name="memo">Tips Menemukan Restoran Terdekat</string>
+    <string name="penjelasan"> Untuk mencari Restoran Terdekat pilih button Current Location, kemudian terima permintaan izin lokasi. Setelah itu, pilih button Nearby Places dan tekan "Restoran Rerdekat". Maka akan muncul 5 rekomendasi restoran terdekat dari posisi anda berada.</string>
+
+</resources>
